@@ -23,7 +23,8 @@ Eddie Saunders saunders.eddie@outlook.com
     letter-spacing: 1rem;
 }
 
-/* img {
-    width: 50%;
-    height: 50%;
-} */
+.fit-image {
+    width: 100%;
+    object-fit: cover;
+    height: 50px;
+}
