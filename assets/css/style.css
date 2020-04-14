@@ -1,0 +1,24 @@
+/* Stylesheet for Portfolio
+Eddie Saunders saunders.eddie@outlook.com
+10th April 2020
+*/
+
+.bg-dark {
+    background-color: rgb(36, 36, 214) !important;
+}
+
+.navbar-brand {
+    color: wheat;
+}
+
+.navbar-text {
+    color: lightblue;
+    padding: 10px;
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+    text-transform: uppercase;
+    font-size: .8rem;
+    font-weight: 700;
+    letter-spacing: 1rem;
+}
