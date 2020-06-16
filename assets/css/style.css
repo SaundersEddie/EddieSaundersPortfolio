@@ -37,6 +37,10 @@ body {
     padding-top: 25px;
 }
 
-#facebooklogo:hover {
-    opacity: 1.5;
+#medialogo {
+    opacity: 0.90;
+}
+
+#medialogo:hover {
+    opacity: 1.0;
 }
