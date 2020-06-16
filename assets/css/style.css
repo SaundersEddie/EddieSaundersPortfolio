@@ -3,6 +3,10 @@ Eddie Saunders saunders.eddie@outlook.com
 10th April 2020
 */
 
+body {
+    background-color: aliceblue;
+}
+
 .bg-dark {
     background-color: rgb(36, 36, 214) !important;
 }
@@ -31,4 +35,9 @@ Eddie Saunders saunders.eddie@outlook.com
 
 .copyright {
     padding-top: 25px;
+}
+
+#facebooklogo:hover {
+    opacity: 0.5;
+    background-color: red;
 }
