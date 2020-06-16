@@ -59,5 +59,6 @@ Code Study Sessions and general input into creation:\
 ## Document, Code, and Repository Revisions:
 
  EXS 9th April 2020:    Initial Build <br/>
- EXS 12th April 2020:   General code clean up.
- EXS 15th April 2020:   About and Portfolio built and uploaded
+ EXS 12th April 2020:   General code clean up.<br/>
+ EXS 15th April 2020:   About and Portfolio built and uploaded.<br/>
+ EXS 16th June 2020:    Added link to new professional Facebook page.<br/>
