@@ -1,7 +1,7 @@
 # Responsive Portfolio
 
 ## General
-Updated portfolio, this time I decided to simply start from ground up. There are still a few tweaks that are ongoing.
+This is a responsive portfolio made with HTML, JQuery, CSS
 
 ## User Stories and Acceptance Criteria
 ---
